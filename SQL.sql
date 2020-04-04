@@ -1,1 +1,0 @@
-SELECT * FROM Sachin_database.Employee;
