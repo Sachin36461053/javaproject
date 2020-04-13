@@ -11,6 +11,8 @@ Response
 •	Java program was written to get data from the database restapi database,blog table. (Task 3)
 •	A rest api was made in Java to retrieve data from blog table and was tested using url http://localhost:8080/blog (Task 4)
 
+data can also be retrieved with id( upto 4) using /blog/{id}
+
 Task 1: Achieved
 Task 2: Achieved
 Task 3 Achieved
